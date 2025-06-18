@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+mysql-connector-python
+fpdf2
+python-docx
