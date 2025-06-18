@@ -77,7 +77,7 @@ DB_USER
 DB_PASSWORD
 ```
 ### Run:
-``bash  
+```bash  
 streamlit run app.py
 ```
 
