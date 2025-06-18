@@ -8,7 +8,7 @@
 
 **TeacherBot** is a full-featured AI assistant designed specifically for school teachers to simplify academic planning, question creation, and document querying.
 
-Originally built as a personal tool for a teacher (my mom 👩‍🏫), it now includes scalable, class-wise, and multilingual features for broader educator use.
+Originally built as a personal tool for a teacher , it now includes scalable, class-wise, and multilingual features for broader educator use.
 
 ---
 
